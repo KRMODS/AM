@@ -1,0 +1,22 @@
+{"version_code":451241,"content":"
+<p>تحديث 12.00 </p>
+
+<li>التحديث لنسخة الماركت 2.19.17</li>
+<li>إضافة الفيسات الجديدة</li>
+<li>يمكنك عمل مكالمة جماعية ما اعضاء المجموعات</li>
+<li>اذا قمت بتحديد رسالة مرسلة في المجموعة يمكنك الرد على مرسلها بشكل منفرد في الخاص</li>
+<li>اصلاح الانهيار عند محاولة البحث عن ثيمات</li>
+<li>اصلاح اضافة الملصقات من قوقل بلاي</li>
+<li>إصلاحات اخرى</li>
+
+<li> Added Now You can Add Stickers From PlayStore to any Package</li>
+<li> New Base Updated to 2.19.17</li>
+<li> Added New Emojis</li>
+<li> Added You can call Participants in groups</li>
+<li> Added Reply Privately when select message in groups</li>
+<li> Fixed Added Stickers From Google Play Apps</li>
+<li> Fixed Crash when search in themes</li>
+<li> Many More Fixes</li>
+
+","url":"http://www.tech0guys.com/2017/08/KR-WhatsApp.html"
+}
