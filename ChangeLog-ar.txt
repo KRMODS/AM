@@ -1,5 +1,5 @@
-{"version_code":451241,"content":"
-<p>تحديث 12.00 </p>
+{"version_code":451211,"content":"
+<p>تحديث 6.70</p>
 
 <li>التحديث لنسخة الماركت 2.19.17</li>
 <li>إضافة الفيسات الجديدة</li>
@@ -18,5 +18,5 @@
 <li> Fixed Crash when search in themes</li>
 <li> Many More Fixes</li>
 
-","url":"http://www.tech0guys.com/2017/08/KR-WhatsApp.html"
+","https://abodimahrous.blogspot.com/2018/11/amwhatsapp.html"
 }
